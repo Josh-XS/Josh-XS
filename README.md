@@ -2,9 +2,7 @@
 Python,C#,GDScript  
 Coding Dojo Student  
 Game design hobbyist  
-Unity,Godot  
-  
-nickelljoshua@gmail.com
+Unity,Godot
 <!--
 **Josh-XS/Josh-XS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
