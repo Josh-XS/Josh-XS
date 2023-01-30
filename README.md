@@ -5,7 +5,10 @@ Currently learning data science
 Game design hobbyist with knowledge of Unity and Godot
 
 https://stackoverflow.com/users/16148433/josh-xs?tab=profile
+
 https://www.linkedin.com/in/joshua-nickell-680903243/
+
+https://josh-xs.itch.io/
 
 <!--
 **Josh-XS/Josh-XS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
