@@ -4,6 +4,8 @@ Coding Dojo student
 Currently learning data science   
 Game design hobbyist with knowledge of Unity and Godot
 
+https://stackoverflow.com/users/16148433/josh-xs?tab=profile
+
 <!--
 **Josh-XS/Josh-XS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
