@@ -1,7 +1,6 @@
 ### Hi there 👋
 Python, C#, GDScript  
-Coding Dojo student   
-Currently learning data science   
+Coding Dojo Graduate  
 Game design hobbyist with knowledge of Unity and Godot
 
 https://stackoverflow.com/users/16148433/josh-xs?tab=profile
