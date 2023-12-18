@@ -1,9 +1,8 @@
-### Hi there 👋
-Python, C#, GDScript  
-Coding Dojo Graduate  
-Game design hobbyist with knowledge of Unity and Godot
+### Hi there 👋 
+Graduate of the Coding Dojo Data Science program
+Game design hobbyist
 
-https://stackoverflow.com/users/16148433/josh-xs?tab=profile
+Skills: Python, Pandas, Tableau, C#, Unity, Godot
 
 https://www.linkedin.com/in/joshua-nickell-680903243/
 
