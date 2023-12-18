@@ -1,5 +1,6 @@
 ### Hi there 👋 
 Graduate of the Coding Dojo Data Science program
+
 Game design hobbyist
 
 Skills: Python, Pandas, Tableau, C#, Unity, Godot
